@@ -6,9 +6,7 @@ git clone https://github.com/DARKEST-OWL-HACKING-SOCIETY/NIGERIA-RANDOM-PAID-V.1
 
 git pull 
 
-cd NIGERIA.RANDOM.1
-
-python NIGERIA.RANDOM.1.py
+cd NIGERIA-RANDOM-PAID-V.1
 
 
 TOOL IS PAID
