@@ -8,5 +8,6 @@ git pull
 
 cd NIGERIA-RANDOM-PAID-V.1
 
+python paidv1.py
 
 TOOL IS PAID
