@@ -6,7 +6,7 @@ except:pass
 
 try:
 
-    __import__("random1111").Main()
+    __import__("windows_enc").Main()
 
 except Exception as e:
 
