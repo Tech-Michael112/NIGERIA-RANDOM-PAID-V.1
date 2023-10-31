@@ -17,7 +17,8 @@ private jey
 1-0-2-3-9-u-0-_-a-2-3-9
 Damon
 
-
+1-0-3-4-0-u-0-_-a-3-4-0
+termux sec fne
 1-0-2-1-6-u-0-_-a-2-1-6
 akuchi
 
