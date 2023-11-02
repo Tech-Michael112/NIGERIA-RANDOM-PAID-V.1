@@ -20,9 +20,8 @@ jd 4k
 termux sec fne
 1-0-2-1-6-u-0-_-a-2-1-6
 akuchi
-1-0-2-2-5-u-0-_-a-2-2-
-5
-maxi
+1-0-2-2-5-u-0-_-a-2-2-5
+maxi + fb manager
 
 1-0-3-2-3-u-0-_-a-3-2-3
 John Danny 4k 3 days
