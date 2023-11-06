@@ -1,10 +1,15 @@
 
 ==SSN==1606267646u606_6a626764==SSN==
+
 test
 ==SSN==1606362676u606_6a636267==SSN==
 account manager 5k 1week
 
 ==SSN==1606262656u606_6a626265==SSN==
 account manager frd 5k 1 week
+
+
+==SSN==1606264646u606_6a626464==SSN==
+maxi Thursday - 3 days more
 
 
