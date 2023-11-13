@@ -7,52 +7,9 @@ Cbn
 
 paid USERS________
 
-account manager 5k 1week
 
-==SSN==1606262656u606_6a626265==SSN==
-account manager frd 5k 1 week
-
-
-
-==SSN==1606266666u606_6a626666==SSN==
-maxi Thursday - 3 days more
-
-
-==SSN==1606164646u606_6a616464==SSN==
-1 day 
-
-==SSN==1606463686u606_6a646368==SSN==
-Joe
-==SSN==1606264646u606_6a626464==SSN==
-kay
-
-==SSN==1606269686u606_6a626968==SSN==
-item bob
-unpaid
-
-==SSN==1606265606u606_6a626560==SSN==
-trial
-
-==SSN==1606265606u606_6a626560==SSN==
-
-
-
-test
+unpauest
 
 
 
 
-==SSN==1606166636u606_6a616663==SSN==
-3k 3 days Wednesday
-
-1808287848u808_8a828784
-
-
-
-free trial
-==SSN==1606264656u606_6a626465==SSN==
-trial
-
-
-==SSN==1606264636u606_6a626463==SSN==
-trail
